@@ -12,7 +12,7 @@
 Summary:	A port of the Tulip asyncio module to Python 2
 Name:		python-trollius
 Version:	2.1
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/t/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
